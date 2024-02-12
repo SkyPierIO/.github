@@ -3,7 +3,7 @@
     <img src="https://skypier.io/skypier_logo_baseline.png" width="318px" alt="skypier logo" />
   </a>
   <a href="https://skypier.io/#gh-dark-mode-only">
-    <img src="https://skypier.io/skypier_logo_baseline.png" width="318px" alt="skypier logo" />
+    <img src="https://skypier.io/_astro/skypier_baseline.9f3ab695.svg" width="318px" alt="skypier logo" />
   </a>
 </p>
 
