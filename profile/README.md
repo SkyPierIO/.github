@@ -13,7 +13,7 @@
 <p align="center">
    A more equitable and scalable decentralized network platform that empowers people the freedom to express and explore anonymously without worry of compromising their privacy or quality of access. 
 </p>
-<p align="center"><a href="https://skypier.tech/">Test the dApp</a> · <a href="https://tinglik.notion.site/On-boarding-the-SkyPier-Network-0967d277dfee49dfb2e537a1b89961b6">Read the doc</a></p>
+<!-- <p align="center"><a href="https://skypier.tech/">Test the dApp</a> · <a href="https://tinglik.notion.site/On-boarding-the-SkyPier-Network-0967d277dfee49dfb2e537a1b89961b6">Read the doc</a></p> -->
 <br />
 
 <p align="center">
@@ -33,9 +33,6 @@
 
 > *Welcome to Skypier Github, we are currently building the future of web3 VPN.*
 
-## How to start?
+## Roadmap
 
-Curious about Skypier VPN? Here are a few useful links
-
-- [Documentation](https://tinglik.notion.site/On-boarding-the-SkyPier-Network-0967d277dfee49dfb2e537a1b89961b6)
-- [Demo app](https://skypier.tech)
+- Linux Version Coming Soon...
